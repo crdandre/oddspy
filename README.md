@@ -1,5 +1,5 @@
 # **oddspy**
-**o**rchstration **d**evice for **dspy**
+**o**rchestration **d**evice for **dspy**
 <br></br>
 <p align="center"><img src="media/oddspy.jpeg" width="500"></p>
 
